@@ -4,4 +4,4 @@
 ---
 
 ##### 1 : Chromebook : RDP Design Desktops
-###### Using chromebook as a terminal and Porting Google web architecture. Highly intensive CPU tasks or projects. Such as core calculations, graphics rendering; become plausible.
+###### Using chromebook as a terminal and porting Google web architecture. Highly intensive CPU tasks or projects. Such as core calculations, graphics rendering; become plausible.
