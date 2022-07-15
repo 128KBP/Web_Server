@@ -16,7 +16,7 @@
 ###### MediaWiki >>>
 
 ##### [Version 2 : ku-pu.com](https://web.archive.org/web/20150404054546/http://ku-pu.com/)
-###### Offline webpage in order to re-direct and Re-boot to >>>
+###### Version 2 >>>
 
 ##### [Version 1 : ku-pu.com](https://web.archive.org/web/20141217123206/http://ku-pu.com/)
-###### Offline webpage in order to re-direct and Re-boot to >>>
+###### Version 1 >>>
